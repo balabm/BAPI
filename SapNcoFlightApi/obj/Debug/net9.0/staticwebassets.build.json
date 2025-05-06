@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "nfJ/TwCzzfCD25aHXd3Fhgjns2qC0YixsTKgQoPPKX8=",
+  "Source": "SapNcoFlightApi",
+  "BasePath": "_content/SapNcoFlightApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
